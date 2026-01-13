@@ -113,4 +113,4 @@ La documentación completa (manual de usuario, manual técnico y guías de insta
 
 ## Licencia
 
-Este proyecto es de carácter académico. Uso libre para fines educativos.
+MIT LICENSE
