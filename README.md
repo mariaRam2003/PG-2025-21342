@@ -106,9 +106,9 @@ La documentación completa (manual de usuario, manual técnico y guías de insta
 
 ## Autores
 
-- Diego Leiva
-- Gustavo Gonzalez
-- Marta Ramírez
+- Diego Alberto Leiva
+- Gustavo Andres Gonzalez Pineda
+- Maria Marta Ramírez
 - Eduardo Ramírez
 
 ## Licencia
